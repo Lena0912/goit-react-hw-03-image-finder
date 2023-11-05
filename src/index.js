@@ -6,7 +6,7 @@ import { GlobalStyle } from 'components/GlobalStyles';
 
 const theme = {
   colors: {
-    accent: '#7ba7ab',
+    accent: '#789e73',
     buttonAccent: '#1b7e87',
     grey: '#9e9c9c',
     error: '#dc143c',
