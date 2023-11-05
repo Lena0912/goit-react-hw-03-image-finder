@@ -4,7 +4,7 @@ import { Component } from "react";
 import { Searchbar } from "./Searchbar/Searchbar";
 import { ImageGallery } from "./ImageGallery/ImageGallery";
 import { Button } from "./Button/Button.jsx";
-import { fechServisSearchImg } from "../API";
+import { fechServisSearchImg } from "./API";
 import { Container } from './Container/Container.styled';
 import { ContainerLoader } from './ContainerLoader/ContainerLoader';
 
